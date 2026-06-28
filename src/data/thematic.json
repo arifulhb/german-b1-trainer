@@ -31,7 +31,7 @@
     "group": "1.1 Abkürzungen",
     "de": "die DVD",
     "en": "DVD (data carrier)",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -67,7 +67,7 @@
     "group": "1.1 Abkürzungen",
     "de": "der Lkw",
     "en": "lorry / truck",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -76,7 +76,7 @@
     "group": "1.1 Abkürzungen",
     "de": "der PC",
     "en": "personal computer",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -94,7 +94,7 @@
     "group": "1.1 Abkürzungen",
     "de": "die SMS",
     "en": "text message",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -103,7 +103,7 @@
     "group": "1.1 Abkürzungen",
     "de": "das WC",
     "en": "toilet / water closet",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -130,7 +130,7 @@
     "group": "1.1 Abkürzungen",
     "de": "z. B.",
     "en": "e.g. / for example",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -139,7 +139,7 @@
     "group": "1.1 Abkürzungen",
     "de": "d. h.",
     "en": "i.e. / that is",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -148,7 +148,7 @@
     "group": "1.1 Abkürzungen",
     "de": "ca.",
     "en": "approximately / circa",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -166,7 +166,7 @@
     "group": "1.2 Anglizismen",
     "de": "das Baby",
     "en": "baby",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -211,7 +211,7 @@
     "group": "1.2 Anglizismen",
     "de": "der Computer",
     "en": "computer",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -265,7 +265,7 @@
     "group": "1.2 Anglizismen",
     "de": "das Internet",
     "en": "internet",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -274,7 +274,7 @@
     "group": "1.2 Anglizismen",
     "de": "der Job",
     "en": "job",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -292,7 +292,7 @@
     "group": "1.2 Anglizismen",
     "de": "joggen",
     "en": "to jog",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -301,7 +301,7 @@
     "group": "1.2 Anglizismen",
     "de": "der Laptop",
     "en": "laptop",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -319,7 +319,7 @@
     "group": "1.2 Anglizismen",
     "de": "das Smartphone",
     "en": "smartphone",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -337,7 +337,7 @@
     "group": "1.2 Anglizismen",
     "de": "das Team",
     "en": "team",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -364,7 +364,7 @@
     "group": "1.2 Anglizismen",
     "de": "online",
     "en": "online",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -391,7 +391,7 @@
     "group": "1.2 Anglizismen",
     "de": "cool",
     "en": "cool",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -409,7 +409,7 @@
     "group": "1.4 Bildungseinrichtungen",
     "de": "der Kindergarten",
     "en": "kindergarten",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -418,7 +418,7 @@
     "group": "1.4 Bildungseinrichtungen",
     "de": "die Grundschule",
     "en": "primary school",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -436,7 +436,7 @@
     "group": "1.4 Bildungseinrichtungen",
     "de": "das Gymnasium",
     "en": "grammar school / high school",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -454,7 +454,7 @@
     "group": "1.4 Bildungseinrichtungen",
     "de": "die Hochschule",
     "en": "university / college",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -463,7 +463,7 @@
     "group": "1.4 Bildungseinrichtungen",
     "de": "die Universität (Uni)",
     "en": "university",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -481,7 +481,7 @@
     "group": "1.5 Schulfächer",
     "de": "Biologie",
     "en": "Biology",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -490,7 +490,7 @@
     "group": "1.5 Schulfächer",
     "de": "Chemie",
     "en": "Chemistry",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -499,7 +499,7 @@
     "group": "1.5 Schulfächer",
     "de": "Geografie",
     "en": "Geography",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -508,7 +508,7 @@
     "group": "1.5 Schulfächer",
     "de": "Geschichte",
     "en": "History",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -517,7 +517,7 @@
     "group": "1.5 Schulfächer",
     "de": "Mathematik (Mathe)",
     "en": "Mathematics (Maths)",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -526,7 +526,7 @@
     "group": "1.5 Schulfächer",
     "de": "Musik",
     "en": "Music",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -544,7 +544,7 @@
     "group": "1.5 Schulfächer",
     "de": "Physik",
     "en": "Physics",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -553,7 +553,7 @@
     "group": "1.5 Schulfächer",
     "de": "Sport",
     "en": "PE / Sport",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -562,7 +562,7 @@
     "group": "1.7 Farben",
     "de": "blau",
     "en": "blue",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -571,7 +571,7 @@
     "group": "1.7 Farben",
     "de": "braun",
     "en": "brown",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -580,7 +580,7 @@
     "group": "1.7 Farben",
     "de": "gelb",
     "en": "yellow",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -589,7 +589,7 @@
     "group": "1.7 Farben",
     "de": "grau",
     "en": "grey",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -598,7 +598,7 @@
     "group": "1.7 Farben",
     "de": "grün",
     "en": "green",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -607,7 +607,7 @@
     "group": "1.7 Farben",
     "de": "lila",
     "en": "purple / lilac",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -616,7 +616,7 @@
     "group": "1.7 Farben",
     "de": "orange",
     "en": "orange",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -625,7 +625,7 @@
     "group": "1.7 Farben",
     "de": "rosa",
     "en": "pink / rose",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -634,7 +634,7 @@
     "group": "1.7 Farben",
     "de": "rot",
     "en": "red",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -643,7 +643,7 @@
     "group": "1.7 Farben",
     "de": "schwarz",
     "en": "black",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -652,7 +652,7 @@
     "group": "1.7 Farben",
     "de": "violett",
     "en": "violet",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -661,7 +661,7 @@
     "group": "1.7 Farben",
     "de": "weiß",
     "en": "white",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -670,7 +670,7 @@
     "group": "1.7 Farben",
     "de": "hell-",
     "en": "light- (e.g. hellblau)",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -679,7 +679,7 @@
     "group": "1.7 Farben",
     "de": "dunkel-",
     "en": "dark- (e.g. dunkelblau)",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -688,7 +688,7 @@
     "group": "1.8 Himmelsrichtungen",
     "de": "der Norden / nördlich",
     "en": "north / northern",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -697,7 +697,7 @@
     "group": "1.8 Himmelsrichtungen",
     "de": "der Osten / östlich",
     "en": "east / eastern",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -706,7 +706,7 @@
     "group": "1.8 Himmelsrichtungen",
     "de": "der Süden / südlich",
     "en": "south / southern",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -715,7 +715,7 @@
     "group": "1.8 Himmelsrichtungen",
     "de": "der Westen / westlich",
     "en": "west / western",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -859,7 +859,7 @@
     "group": "1.11 Tiere",
     "de": "der Affe",
     "en": "monkey / ape",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -868,7 +868,7 @@
     "group": "1.11 Tiere",
     "de": "der Bär",
     "en": "bear",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -877,7 +877,7 @@
     "group": "1.11 Tiere",
     "de": "die Biene",
     "en": "bee",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -886,7 +886,7 @@
     "group": "1.11 Tiere",
     "de": "der Elefant",
     "en": "elephant",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -895,7 +895,7 @@
     "group": "1.11 Tiere",
     "de": "die Ente",
     "en": "duck",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -904,7 +904,7 @@
     "group": "1.11 Tiere",
     "de": "der Fisch",
     "en": "fish",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -913,7 +913,7 @@
     "group": "1.11 Tiere",
     "de": "die Fliege",
     "en": "fly",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -922,7 +922,7 @@
     "group": "1.11 Tiere",
     "de": "die Giraffe",
     "en": "giraffe",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -931,7 +931,7 @@
     "group": "1.11 Tiere",
     "de": "der Hase",
     "en": "hare / rabbit",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -940,7 +940,7 @@
     "group": "1.11 Tiere",
     "de": "der Hund",
     "en": "dog",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -949,7 +949,7 @@
     "group": "1.11 Tiere",
     "de": "das Insekt",
     "en": "insect",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -958,7 +958,7 @@
     "group": "1.11 Tiere",
     "de": "die Katze",
     "en": "cat",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -967,7 +967,7 @@
     "group": "1.11 Tiere",
     "de": "das Krokodil",
     "en": "crocodile",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -976,7 +976,7 @@
     "group": "1.11 Tiere",
     "de": "die Kuh",
     "en": "cow",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -985,7 +985,7 @@
     "group": "1.11 Tiere",
     "de": "der Löwe",
     "en": "lion",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -994,7 +994,7 @@
     "group": "1.11 Tiere",
     "de": "die Maus",
     "en": "mouse",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1012,7 +1012,7 @@
     "group": "1.11 Tiere",
     "de": "das Pferd",
     "en": "horse",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1021,7 +1021,7 @@
     "group": "1.11 Tiere",
     "de": "der Pinguin",
     "en": "penguin",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1030,7 +1030,7 @@
     "group": "1.11 Tiere",
     "de": "das Schaf",
     "en": "sheep",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1048,7 +1048,7 @@
     "group": "1.11 Tiere",
     "de": "die Schlange",
     "en": "snake",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1057,7 +1057,7 @@
     "group": "1.11 Tiere",
     "de": "das Schwein",
     "en": "pig",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1066,7 +1066,7 @@
     "group": "1.11 Tiere",
     "de": "der Vogel",
     "en": "bird",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1075,7 +1075,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Euro (€)",
     "en": "euro",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1084,7 +1084,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Cent (c)",
     "en": "cent",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1093,7 +1093,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Franken (sFr.)",
     "en": "Swiss franc",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1102,7 +1102,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Meter (m)",
     "en": "metre",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1111,7 +1111,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Zentimeter (cm)",
     "en": "centimetre",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1120,7 +1120,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Kilometer (km)",
     "en": "kilometre",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1138,7 +1138,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "das Gramm (g)",
     "en": "gram",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1147,7 +1147,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "das Kilo(gramm) (kg)",
     "en": "kilogram",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1156,7 +1156,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "das Pfund (500g)",
     "en": "pound (500g)",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1165,7 +1165,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Liter (l)",
     "en": "litre",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1174,7 +1174,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "das Prozent (%)",
     "en": "percent",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1183,7 +1183,7 @@
     "group": "1.12 Währungen / Maße / Gewichte",
     "de": "der Grad (°C)",
     "en": "degree Celsius",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1192,7 +1192,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "eins, zwei, drei ... zehn",
     "en": "one, two, three ... ten",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1201,7 +1201,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "elf, zwölf",
     "en": "eleven, twelve",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1210,7 +1210,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "dreizehn ... zwanzig",
     "en": "thirteen ... twenty",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1219,7 +1219,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "dreißig, vierzig ... neunzig",
     "en": "thirty, forty ... ninety",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1228,7 +1228,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "hundert, tausend",
     "en": "hundred, thousand",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1237,7 +1237,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "eine Million",
     "en": "one million",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1255,7 +1255,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "der/die/das erste",
     "en": "the first",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1264,7 +1264,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "einmal / zweimal / dreimal",
     "en": "once / twice / three times",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1273,7 +1273,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "einfach / doppelt",
     "en": "single / double",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1282,7 +1282,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "½ = ein halb",
     "en": "a half",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1291,7 +1291,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "⅓ = ein Drittel",
     "en": "a third",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1300,7 +1300,7 @@
     "group": "1.13 Zahlen / Bruchzahlen",
     "de": "¼ = ein Viertel",
     "en": "a quarter",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1309,7 +1309,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "der Morgen",
     "en": "morning",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1318,7 +1318,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "der Vormittag",
     "en": "late morning / before noon",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1327,7 +1327,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "der Mittag",
     "en": "midday / noon",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1336,7 +1336,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "der Nachmittag",
     "en": "afternoon",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1345,7 +1345,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "der Abend",
     "en": "evening",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1354,7 +1354,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "die Nacht",
     "en": "night",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1363,7 +1363,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "die Mitternacht",
     "en": "midnight",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1372,7 +1372,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "morgens",
     "en": "in the morning",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1381,7 +1381,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "mittags",
     "en": "at midday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1390,7 +1390,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "abends",
     "en": "in the evening",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1399,7 +1399,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "nachts",
     "en": "at night",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1408,7 +1408,7 @@
     "group": "1.14 Zeit — Tageszeiten",
     "de": "tagsüber",
     "en": "during the day",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1417,7 +1417,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Montag",
     "en": "Monday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1426,7 +1426,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Dienstag",
     "en": "Tuesday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1435,7 +1435,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Mittwoch",
     "en": "Wednesday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1444,7 +1444,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Donnerstag",
     "en": "Thursday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1453,7 +1453,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Freitag",
     "en": "Friday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1462,7 +1462,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Samstag",
     "en": "Saturday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1471,7 +1471,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Sonntag",
     "en": "Sunday",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1480,7 +1480,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "das Wochenende",
     "en": "weekend",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1489,7 +1489,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "der Wochentag",
     "en": "weekday",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1498,7 +1498,7 @@
     "group": "1.14 Zeit — Wochentage",
     "de": "wochentags / werktags",
     "en": "on weekdays",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1507,7 +1507,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Januar",
     "en": "January",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1516,7 +1516,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Februar",
     "en": "February",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1525,7 +1525,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der März",
     "en": "March",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1534,7 +1534,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der April",
     "en": "April",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1543,7 +1543,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Mai",
     "en": "May",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1552,7 +1552,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Juni",
     "en": "June",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1561,7 +1561,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Juli",
     "en": "July",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1570,7 +1570,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der August",
     "en": "August",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1579,7 +1579,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der September",
     "en": "September",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1588,7 +1588,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Oktober",
     "en": "October",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1597,7 +1597,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der November",
     "en": "November",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1606,7 +1606,7 @@
     "group": "1.14 Zeit — Monate",
     "de": "der Dezember",
     "en": "December",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1615,7 +1615,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "der Frühling / das Frühjahr",
     "en": "spring",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1624,7 +1624,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "der Sommer",
     "en": "summer",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1633,7 +1633,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "der Herbst",
     "en": "autumn",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1642,7 +1642,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "der Winter",
     "en": "winter",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1651,7 +1651,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "die Sekunde",
     "en": "second",
-    "level": "B1",
+    "level": "A2",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1660,7 +1660,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "die Minute",
     "en": "minute",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1669,7 +1669,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "die Stunde",
     "en": "hour",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1678,7 +1678,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "die Woche",
     "en": "week",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1687,7 +1687,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "der Monat",
     "en": "month",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },
@@ -1696,7 +1696,7 @@
     "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
     "de": "das Jahr",
     "en": "year",
-    "level": "B1",
+    "level": "A1",
     "source": "goethe_b1_wortliste",
     "tags": []
   },

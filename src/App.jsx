@@ -23,7 +23,6 @@ const DEFAULT_UI = {
   thematicCardIdx: 0,
   thematicDir: "de→en",
   thematicFilters: DEFAULT_FILTERS,
-  verbChunkIdx: 0,
   verbCardIdx: 0,
   verbMode: "inf",
   verbFilters: DEFAULT_FILTERS,

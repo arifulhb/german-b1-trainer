@@ -175,13 +175,18 @@ export const s = {
   },
   // Persistent footer with the non-commercial note.
   footer: {
+    position: "fixed",
+    bottom: 0,
+    left: 0,
+    right: 0,
     borderTop: "1px solid #ececf0",
-    padding: "18px 24px",
-    marginTop: 24,
+    padding: "10px 24px",
     textAlign: "center",
     fontSize: 13,
     color: "#9ca3af",
     lineHeight: 1.6,
+    background: "#ffffff",
+    zIndex: 50,
   },
   footerLink: {
     background: "none",

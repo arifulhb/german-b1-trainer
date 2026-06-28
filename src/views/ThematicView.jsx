@@ -38,8 +38,40 @@ export default function ThematicView({ words, ui, patch, mark, statusOf, recordR
   const hasGroups = groups.length > 0;
   const gIdx = hasGroups ? Math.min(groupIdx, groups.length - 1) : 0;
   const group = hasGroups ? groups[gIdx] : null;
-  const cIdx = group ? Math.min(cardIdx, group.words.length - 1) : 0;
-  const card = group ? group.words[cIdx] : null;
+
+  // Sort: unknown/review first (alphabetically by DE), known words sink to bottom.
+  // Used for the drill (respects status filter).
+  const sortedWords = useMemo(() => {
+    if (!group) return [];
+    return [...group.words].sort((a, b) => {
+      const aKnown = statusOf(a.id) === "known" ? 1 : 0;
+      const bKnown = statusOf(b.id) === "known" ? 1 : 0;
+      if (aKnown !== bKnown) return aKnown - bKnown;
+      return a.de.localeCompare(b.de, "de");
+    });
+  }, [group, statusOf]);
+
+  // All words in the current group matching level/source filters but ignoring status —
+  // so known words always appear in the WordList even when the drill hides them.
+  const allGroupWords = useMemo(() => {
+    if (!group) return [];
+    return [...words]
+      .filter((w) => {
+        if (w.group !== group.name) return false;
+        if (filters.level !== "all" && w.level !== filters.level) return false;
+        if (filters.sources !== "all" && !filters.sources.includes(w.source)) return false;
+        return true;
+      })
+      .sort((a, b) => {
+        const aKnown = statusOf(a.id) === "known" ? 1 : 0;
+        const bKnown = statusOf(b.id) === "known" ? 1 : 0;
+        if (aKnown !== bKnown) return aKnown - bKnown;
+        return a.de.localeCompare(b.de, "de");
+      });
+  }, [words, group, filters.level, filters.sources, statusOf]);
+
+  const cIdx = group ? Math.min(cardIdx, sortedWords.length - 1) : 0;
+  const card = group ? sortedWords[cIdx] : null;
 
   const resetReveal = () => setRevealed(false);
 
@@ -49,7 +81,7 @@ export default function ThematicView({ words, ui, patch, mark, statusOf, recordR
       recordReview("word");
     }
     resetReveal();
-    if (cIdx < group.words.length - 1) patch({ thematicCardIdx: cIdx + 1 });
+    if (cIdx < sortedWords.length - 1) patch({ thematicCardIdx: cIdx + 1 });
   };
 
   const selectGroup = (idx) => {
@@ -58,8 +90,8 @@ export default function ThematicView({ words, ui, patch, mark, statusOf, recordR
     resetReveal();
   };
 
-  const knownCount = group ? group.words.filter((w) => statusOf(w.id) === "known").length : 0;
-  const reviewCount = group ? group.words.filter((w) => statusOf(w.id) === "review").length : 0;
+  const knownCount = group ? sortedWords.filter((w) => statusOf(w.id) === "known").length : 0;
+  const reviewCount = group ? sortedWords.filter((w) => statusOf(w.id) === "review").length : 0;
 
   return (
     <div style={s.thematicLayout}>
@@ -103,14 +135,10 @@ export default function ThematicView({ words, ui, patch, mark, statusOf, recordR
                 {group.name}
               </div>
               <div style={{ display: "flex", justifyContent: "space-between", fontSize: 14, color: "#6b7280", marginBottom: 6 }}>
-                <span>
-                  Card {cIdx + 1} / {group.words.length}
-                </span>
-                <span>
-                  ✅ {knownCount} known &nbsp; 🔁 {reviewCount} review
-                </span>
+                <span>Card {cIdx + 1} / {sortedWords.length}</span>
+                <span>✅ {knownCount} known &nbsp; 🔁 {reviewCount} review</span>
               </div>
-              <ProgressBar value={cIdx + 1} max={group.words.length} />
+              <ProgressBar value={cIdx + 1} max={sortedWords.length} />
             </div>
 
             <DrillModeToggle
@@ -145,13 +173,14 @@ export default function ThematicView({ words, ui, patch, mark, statusOf, recordR
 
             <WordList
               title="📋 All words in this group"
-              items={group.words}
-              activeIndex={cIdx}
+              items={allGroupWords}
+              activeIndex={allGroupWords.findIndex((w) => card && w.id === card.id)}
               statusOf={statusOf}
+              mark={mark}
               variant="thematic"
               onSelect={(idx) => {
-                patch({ thematicCardIdx: idx });
-                resetReveal();
+                const drillIdx = sortedWords.findIndex((w) => w.id === allGroupWords[idx].id);
+                if (drillIdx >= 0) { patch({ thematicCardIdx: drillIdx }); resetReveal(); }
               }}
             />
           </>
