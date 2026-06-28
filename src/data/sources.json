@@ -1,0 +1,33 @@
+[
+  {
+    "id": "goethe_b1_wortliste",
+    "name": "Goethe-Zertifikat B1 Wortliste",
+    "level": "B1",
+    "description": "Official vocabulary list for the Goethe/ÖSD B1 exam, ~2400 words",
+    "url": "https://www.goethe.de/pro/relaunch/prf/de/Goethe-Zertifikat_B1_Wortliste.pdf"
+  },
+  {
+    "id": "goethe_a2_wortliste",
+    "name": "Goethe-Zertifikat A2 Wortliste",
+    "level": "A2",
+    "description": "Official Goethe A2 vocabulary list"
+  },
+  {
+    "id": "netzwerk_neu_a1",
+    "name": "Netzwerk neu A1 Textbook",
+    "level": "A1",
+    "description": "Vocabulary from Netzwerk neu A1 Kurs- und Übungsbuch"
+  },
+  {
+    "id": "netzwerk_neu_a2",
+    "name": "Netzwerk neu A2 Textbook",
+    "level": "A2",
+    "description": "Vocabulary from Netzwerk neu A2"
+  },
+  {
+    "id": "user_added",
+    "name": "User Added",
+    "level": "mixed",
+    "description": "Words added manually by the user"
+  }
+]

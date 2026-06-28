@@ -1,0 +1,3622 @@
+[
+  {
+    "id": "verb-ext-001",
+    "inf": "abhängen",
+    "aux": "hat",
+    "part": "abgehangen",
+    "en": "to depend on",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-002",
+    "inf": "abschreiben",
+    "aux": "hat",
+    "part": "abgeschrieben",
+    "en": "to copy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-003",
+    "inf": "achten",
+    "aux": "hat",
+    "part": "geachtet",
+    "en": "to pay attention",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-004",
+    "inf": "amüsieren",
+    "aux": "hat",
+    "part": "amüsiert",
+    "en": "to have fun",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-005",
+    "inf": "anerkennen",
+    "aux": "hat",
+    "part": "anerkannt",
+    "en": "to recognize",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-006",
+    "inf": "angeben",
+    "aux": "hat",
+    "part": "angegeben",
+    "en": "to state",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-007",
+    "inf": "anhaben",
+    "aux": "hat",
+    "part": "angehabt",
+    "en": "to wear",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-008",
+    "inf": "anklicken",
+    "aux": "hat",
+    "part": "angeklickt",
+    "en": "to click on",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-009",
+    "inf": "ankündigen",
+    "aux": "hat",
+    "part": "angekündigt",
+    "en": "to announce",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-010",
+    "inf": "anschaffen",
+    "aux": "hat",
+    "part": "angeschafft",
+    "en": "to acquire",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-011",
+    "inf": "anschließen",
+    "aux": "hat",
+    "part": "angeschlossen",
+    "en": "to connect",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-012",
+    "inf": "anschnallen",
+    "aux": "hat",
+    "part": "angeschnallt",
+    "en": "to fasten the seatbelt",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-013",
+    "inf": "ansehen",
+    "aux": "hat",
+    "part": "angesehen",
+    "en": "to look at",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-014",
+    "inf": "ansprechen",
+    "aux": "hat",
+    "part": "angesprochen",
+    "en": "to address",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-015",
+    "inf": "anstellen",
+    "aux": "hat",
+    "part": "angestellt",
+    "en": "to turn on",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-016",
+    "inf": "anstrengen",
+    "aux": "hat",
+    "part": "angestrengt",
+    "en": "to make an effort",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-017",
+    "inf": "anwenden",
+    "aux": "hat",
+    "part": "angewendet",
+    "en": "to apply",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-018",
+    "inf": "anzeigen",
+    "aux": "hat",
+    "part": "angezeigt",
+    "en": "to report",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-019",
+    "inf": "anziehen",
+    "aux": "hat",
+    "part": "angezogen",
+    "en": "to put on",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-020",
+    "inf": "auffallen",
+    "aux": "ist",
+    "part": "aufgefallen",
+    "en": "to stand out",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-021",
+    "inf": "aufführen",
+    "aux": "hat",
+    "part": "aufgeführt",
+    "en": "to perform",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-022",
+    "inf": "aufhalten",
+    "aux": "hat",
+    "part": "aufgehalten",
+    "en": "to delay",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-023",
+    "inf": "aufheben",
+    "aux": "hat",
+    "part": "aufgehoben",
+    "en": "to pick up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-024",
+    "inf": "aufladen",
+    "aux": "hat",
+    "part": "aufgeladen",
+    "en": "to charge",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-025",
+    "inf": "auflösen",
+    "aux": "hat",
+    "part": "aufgelöst",
+    "en": "to dissolve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-026",
+    "inf": "aufnehmen",
+    "aux": "hat",
+    "part": "aufgenommen",
+    "en": "to record",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-027",
+    "inf": "aufpassen",
+    "aux": "hat",
+    "part": "aufgepasst",
+    "en": "to watch out",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-028",
+    "inf": "aufräumen",
+    "aux": "hat",
+    "part": "aufgeräumt",
+    "en": "to tidy up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-029",
+    "inf": "aufregen",
+    "aux": "hat",
+    "part": "aufgeregt",
+    "en": "to upset",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-030",
+    "inf": "aufschreiben",
+    "aux": "hat",
+    "part": "aufgeschrieben",
+    "en": "to write down",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-031",
+    "inf": "aufstehen",
+    "aux": "ist",
+    "part": "aufgestanden",
+    "en": "to get up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-032",
+    "inf": "auftreten",
+    "aux": "ist",
+    "part": "aufgetreten",
+    "en": "to appear",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-033",
+    "inf": "aufwachen",
+    "aux": "ist",
+    "part": "aufgewacht",
+    "en": "to wake up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-034",
+    "inf": "ausdrucken",
+    "aux": "hat",
+    "part": "ausgedruckt",
+    "en": "to print out",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-035",
+    "inf": "ausfallen",
+    "aux": "ist",
+    "part": "ausgefallen",
+    "en": "to be cancelled",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-036",
+    "inf": "ausgehen",
+    "aux": "ist",
+    "part": "ausgegangen",
+    "en": "to go out",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-037",
+    "inf": "ausmachen",
+    "aux": "hat",
+    "part": "ausgemacht",
+    "en": "to turn off",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-038",
+    "inf": "ausreichen",
+    "aux": "hat",
+    "part": "ausgereicht",
+    "en": "to suffice",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-039",
+    "inf": "ausrichten",
+    "aux": "hat",
+    "part": "ausgerichtet",
+    "en": "to pass on a message",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-040",
+    "inf": "ausschließen",
+    "aux": "hat",
+    "part": "ausgeschlossen",
+    "en": "to exclude",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-041",
+    "inf": "aussehen",
+    "aux": "hat",
+    "part": "ausgesehen",
+    "en": "to look",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-042",
+    "inf": "aussprechen",
+    "aux": "hat",
+    "part": "ausgesprochen",
+    "en": "to pronounce",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-043",
+    "inf": "ausstellen",
+    "aux": "hat",
+    "part": "ausgestellt",
+    "en": "to exhibit",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-044",
+    "inf": "aussuchen",
+    "aux": "hat",
+    "part": "ausgesucht",
+    "en": "to choose",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-045",
+    "inf": "auswählen",
+    "aux": "hat",
+    "part": "ausgewählt",
+    "en": "to select",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-046",
+    "inf": "ausziehen",
+    "aux": "hat",
+    "part": "ausgezogen",
+    "en": "to take off",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-047",
+    "inf": "beantragen",
+    "aux": "hat",
+    "part": "beantragt",
+    "en": "to apply for",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-048",
+    "inf": "beantworten",
+    "aux": "hat",
+    "part": "beantwortet",
+    "en": "to answer",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-049",
+    "inf": "bedanken",
+    "aux": "hat",
+    "part": "bedankt",
+    "en": "to thank",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-050",
+    "inf": "bedienen",
+    "aux": "hat",
+    "part": "bedient",
+    "en": "to serve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-051",
+    "inf": "beeilen",
+    "aux": "hat",
+    "part": "beeilt",
+    "en": "to hurry",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-052",
+    "inf": "beeinflussen",
+    "aux": "hat",
+    "part": "beeinflusst",
+    "en": "to influence",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-053",
+    "inf": "beenden",
+    "aux": "hat",
+    "part": "beendet",
+    "en": "to finish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-054",
+    "inf": "befinden",
+    "aux": "hat",
+    "part": "befunden",
+    "en": "to be located",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-055",
+    "inf": "begegnen",
+    "aux": "ist",
+    "part": "begegnet",
+    "en": "to meet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-056",
+    "inf": "beginnen",
+    "aux": "hat",
+    "part": "begonnen",
+    "en": "to begin",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-057",
+    "inf": "begründen",
+    "aux": "hat",
+    "part": "begründet",
+    "en": "to justify",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-058",
+    "inf": "begrüßen",
+    "aux": "hat",
+    "part": "begrüßt",
+    "en": "to greet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-059",
+    "inf": "behalten",
+    "aux": "hat",
+    "part": "behalten",
+    "en": "to keep",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-060",
+    "inf": "beißen",
+    "aux": "hat",
+    "part": "gebissen",
+    "en": "to bite",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-061",
+    "inf": "bekannt geben",
+    "aux": "hat",
+    "part": "bekannt gegeben",
+    "en": "to announce",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-062",
+    "inf": "bemühen",
+    "aux": "hat",
+    "part": "bemüht",
+    "en": "to make an effort",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-063",
+    "inf": "benötigen",
+    "aux": "hat",
+    "part": "benötigt",
+    "en": "to need",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-064",
+    "inf": "beobachten",
+    "aux": "hat",
+    "part": "beobachtet",
+    "en": "to observe",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-065",
+    "inf": "beraten",
+    "aux": "hat",
+    "part": "beraten",
+    "en": "to advise",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-066",
+    "inf": "berechnen",
+    "aux": "hat",
+    "part": "berechnet",
+    "en": "to calculate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-067",
+    "inf": "beschädigen",
+    "aux": "hat",
+    "part": "beschädigt",
+    "en": "to damage",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-068",
+    "inf": "beschäftigen",
+    "aux": "hat",
+    "part": "beschäftigt",
+    "en": "to occupy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-069",
+    "inf": "beschließen",
+    "aux": "hat",
+    "part": "beschlossen",
+    "en": "to decide",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-070",
+    "inf": "beschränken",
+    "aux": "hat",
+    "part": "beschränkt",
+    "en": "to limit",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-071",
+    "inf": "besetzen",
+    "aux": "hat",
+    "part": "besetzt",
+    "en": "to occupy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-072",
+    "inf": "besichtigen",
+    "aux": "hat",
+    "part": "besichtigt",
+    "en": "to tour",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-073",
+    "inf": "besitzen",
+    "aux": "hat",
+    "part": "besessen",
+    "en": "to own",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-074",
+    "inf": "besorgen",
+    "aux": "hat",
+    "part": "besorgt",
+    "en": "to obtain",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-075",
+    "inf": "besprechen",
+    "aux": "hat",
+    "part": "besprochen",
+    "en": "to discuss",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-076",
+    "inf": "bestätigen",
+    "aux": "hat",
+    "part": "bestätigt",
+    "en": "to confirm",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-077",
+    "inf": "bestehen",
+    "aux": "hat",
+    "part": "bestanden",
+    "en": "to pass",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-078",
+    "inf": "bestellen",
+    "aux": "hat",
+    "part": "bestellt",
+    "en": "to order",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-079",
+    "inf": "bestrafen",
+    "aux": "hat",
+    "part": "bestraft",
+    "en": "to punish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-080",
+    "inf": "beteiligen",
+    "aux": "hat",
+    "part": "beteiligt",
+    "en": "to participate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-081",
+    "inf": "betreuen",
+    "aux": "hat",
+    "part": "betreut",
+    "en": "to look after",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-082",
+    "inf": "betrügen",
+    "aux": "hat",
+    "part": "betrogen",
+    "en": "to cheat / deceive",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-083",
+    "inf": "bewegen",
+    "aux": "hat",
+    "part": "bewegt",
+    "en": "to move",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-084",
+    "inf": "beweisen",
+    "aux": "hat",
+    "part": "bewiesen",
+    "en": "to prove",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-085",
+    "inf": "bewerben",
+    "aux": "hat",
+    "part": "beworben",
+    "en": "to apply",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-086",
+    "inf": "bezahlen",
+    "aux": "hat",
+    "part": "bezahlt",
+    "en": "to pay",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-087",
+    "inf": "blitzen",
+    "aux": "hat",
+    "part": "geblitzt",
+    "en": "to flash / lighten",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-088",
+    "inf": "blühen",
+    "aux": "hat",
+    "part": "geblüht",
+    "en": "to bloom",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-089",
+    "inf": "bluten",
+    "aux": "hat",
+    "part": "geblutet",
+    "en": "to bleed",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-090",
+    "inf": "darstellen",
+    "aux": "hat",
+    "part": "dargestellt",
+    "en": "to depict / represent",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-091",
+    "inf": "dekorieren",
+    "aux": "hat",
+    "part": "dekoriert",
+    "en": "to decorate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-092",
+    "inf": "dienen",
+    "aux": "hat",
+    "part": "gedient",
+    "en": "to serve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-093",
+    "inf": "donnern",
+    "aux": "hat",
+    "part": "gedonnert",
+    "en": "to thunder",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-094",
+    "inf": "drücken",
+    "aux": "hat",
+    "part": "gedrückt",
+    "en": "to press",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-095",
+    "inf": "duschen",
+    "aux": "hat",
+    "part": "geduscht",
+    "en": "to shower",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-096",
+    "inf": "duzen",
+    "aux": "hat",
+    "part": "geduzt",
+    "en": "to address informally",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-097",
+    "inf": "eignen",
+    "aux": "hat",
+    "part": "geeignet",
+    "en": "to be suitable",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-098",
+    "inf": "eilen",
+    "aux": "ist",
+    "part": "geeilt",
+    "en": "to hurry",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-099",
+    "inf": "einbrechen",
+    "aux": "ist",
+    "part": "eingebrochen",
+    "en": "to break in",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-100",
+    "inf": "einfallen",
+    "aux": "ist",
+    "part": "eingefallen",
+    "en": "to come to mind",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-101",
+    "inf": "einfügen",
+    "aux": "hat",
+    "part": "eingefügt",
+    "en": "to insert",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-102",
+    "inf": "einführen",
+    "aux": "hat",
+    "part": "eingeführt",
+    "en": "to introduce / import",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-103",
+    "inf": "einigen",
+    "aux": "hat",
+    "part": "geeinigt",
+    "en": "to agree",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-104",
+    "inf": "einkaufen",
+    "aux": "hat",
+    "part": "eingekauft",
+    "en": "to shop",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-105",
+    "inf": "einladen",
+    "aux": "hat",
+    "part": "eingeladen",
+    "en": "to invite",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-106",
+    "inf": "einnehmen",
+    "aux": "hat",
+    "part": "eingenommen",
+    "en": "to take (medicine) / earn",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-107",
+    "inf": "einpacken",
+    "aux": "hat",
+    "part": "eingepackt",
+    "en": "to pack",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-108",
+    "inf": "einsetzen",
+    "aux": "hat",
+    "part": "eingesetzt",
+    "en": "to deploy / insert",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-109",
+    "inf": "einsteigen",
+    "aux": "ist",
+    "part": "eingestiegen",
+    "en": "to get in / board",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-110",
+    "inf": "einstellen",
+    "aux": "hat",
+    "part": "eingestellt",
+    "en": "to hire / adjust",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-111",
+    "inf": "eintragen",
+    "aux": "hat",
+    "part": "eingetragen",
+    "en": "to enter / register",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-112",
+    "inf": "eintreten",
+    "aux": "ist",
+    "part": "eingetreten",
+    "en": "to enter / join",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-113",
+    "inf": "einzahlen",
+    "aux": "hat",
+    "part": "eingezahlt",
+    "en": "to deposit / pay in",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-114",
+    "inf": "einziehen",
+    "aux": "ist",
+    "part": "eingezogen",
+    "en": "to move in",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-115",
+    "inf": "empfangen",
+    "aux": "hat",
+    "part": "empfangen",
+    "en": "to receive",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-116",
+    "inf": "empfehlen",
+    "aux": "hat",
+    "part": "empfohlen",
+    "en": "to recommend",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-117",
+    "inf": "enden",
+    "aux": "hat",
+    "part": "geendet",
+    "en": "to end",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-118",
+    "inf": "entdecken",
+    "aux": "hat",
+    "part": "entdeckt",
+    "en": "to discover",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-119",
+    "inf": "entfernen",
+    "aux": "hat",
+    "part": "entfernt",
+    "en": "to remove",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-120",
+    "inf": "entgegenkommen",
+    "aux": "ist",
+    "part": "entgegengekommen",
+    "en": "to come towards / accommodate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-121",
+    "inf": "enthalten",
+    "aux": "hat",
+    "part": "enthalten",
+    "en": "to contain",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-122",
+    "inf": "entlassen",
+    "aux": "hat",
+    "part": "entlassen",
+    "en": "to dismiss / release",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-123",
+    "inf": "entscheiden",
+    "aux": "hat",
+    "part": "entschieden",
+    "en": "to decide",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-124",
+    "inf": "entschließen",
+    "aux": "hat",
+    "part": "entschlossen",
+    "en": "to decide / resolve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-125",
+    "inf": "entschuldigen",
+    "aux": "hat",
+    "part": "entschuldigt",
+    "en": "to apologize / excuse",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-126",
+    "inf": "entsorgen",
+    "aux": "hat",
+    "part": "entsorgt",
+    "en": "to dispose of",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-127",
+    "inf": "entstehen",
+    "aux": "ist",
+    "part": "entstanden",
+    "en": "to arise / develop",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-128",
+    "inf": "enttäuschen",
+    "aux": "hat",
+    "part": "enttäuscht",
+    "en": "to disappoint",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-129",
+    "inf": "ereignen",
+    "aux": "hat",
+    "part": "ereignet",
+    "en": "to happen / occur",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-130",
+    "inf": "erfahren",
+    "aux": "hat",
+    "part": "erfahren",
+    "en": "to find out / experience",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-131",
+    "inf": "erfinden",
+    "aux": "hat",
+    "part": "erfunden",
+    "en": "to invent",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-132",
+    "inf": "erfordern",
+    "aux": "hat",
+    "part": "erfordert",
+    "en": "to require",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-133",
+    "inf": "erfüllen",
+    "aux": "hat",
+    "part": "erfüllt",
+    "en": "to fulfill",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-134",
+    "inf": "ergänzen",
+    "aux": "hat",
+    "part": "ergänzt",
+    "en": "to complete / add",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-135",
+    "inf": "erhalten",
+    "aux": "hat",
+    "part": "erhalten",
+    "en": "to receive",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-136",
+    "inf": "erhöhen",
+    "aux": "hat",
+    "part": "erhöht",
+    "en": "to raise / increase",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-137",
+    "inf": "erholen",
+    "aux": "hat",
+    "part": "erholt",
+    "en": "to recover / relax",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-138",
+    "inf": "erkälten",
+    "aux": "hat",
+    "part": "erkältet",
+    "en": "to catch a cold",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-139",
+    "inf": "erkennen",
+    "aux": "hat",
+    "part": "erkannt",
+    "en": "to recognize",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-140",
+    "inf": "erklären",
+    "aux": "hat",
+    "part": "erklärt",
+    "en": "to explain",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-141",
+    "inf": "erkundigen",
+    "aux": "hat",
+    "part": "erkundigt",
+    "en": "to inquire",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-142",
+    "inf": "erlauben",
+    "aux": "hat",
+    "part": "erlaubt",
+    "en": "to allow",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-143",
+    "inf": "erleben",
+    "aux": "hat",
+    "part": "erlebt",
+    "en": "to experience",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-144",
+    "inf": "erledigen",
+    "aux": "hat",
+    "part": "erledigt",
+    "en": "to take care of",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-145",
+    "inf": "ernähren",
+    "aux": "hat",
+    "part": "ernährt",
+    "en": "to feed / nourish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-146",
+    "inf": "eröffnen",
+    "aux": "hat",
+    "part": "eröffnet",
+    "en": "to open",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-147",
+    "inf": "erreichen",
+    "aux": "hat",
+    "part": "erreicht",
+    "en": "to reach",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-148",
+    "inf": "erschrecken",
+    "aux": "ist",
+    "part": "erschrocken",
+    "en": "to be startled",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-149",
+    "inf": "ersetzen",
+    "aux": "hat",
+    "part": "ersetzt",
+    "en": "to replace",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-150",
+    "inf": "erstellen",
+    "aux": "hat",
+    "part": "erstellt",
+    "en": "to create",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-151",
+    "inf": "erzählen",
+    "aux": "hat",
+    "part": "erzählt",
+    "en": "to tell",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-152",
+    "inf": "erziehen",
+    "aux": "hat",
+    "part": "erzogen",
+    "en": "to raise / educate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-153",
+    "inf": "fassen",
+    "aux": "hat",
+    "part": "gefasst",
+    "en": "to grasp / seize",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-154",
+    "inf": "fehlen",
+    "aux": "hat",
+    "part": "gefehlt",
+    "en": "to be missing",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-155",
+    "inf": "fernsehen",
+    "aux": "hat",
+    "part": "ferngesehen",
+    "en": "to watch TV",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-156",
+    "inf": "festhalten",
+    "aux": "hat",
+    "part": "festgehalten",
+    "en": "to hold on",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-157",
+    "inf": "festlegen",
+    "aux": "hat",
+    "part": "festgelegt",
+    "en": "to set / fix",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-158",
+    "inf": "festnehmen",
+    "aux": "hat",
+    "part": "festgenommen",
+    "en": "to arrest",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-159",
+    "inf": "festsetzen",
+    "aux": "hat",
+    "part": "festgesetzt",
+    "en": "to set / fix",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-160",
+    "inf": "feststehen",
+    "aux": "hat",
+    "part": "festgestanden",
+    "en": "to be certain",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-161",
+    "inf": "feststellen",
+    "aux": "hat",
+    "part": "festgestellt",
+    "en": "to determine / notice",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-162",
+    "inf": "finanzieren",
+    "aux": "hat",
+    "part": "finanziert",
+    "en": "to finance",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-163",
+    "inf": "fordern",
+    "aux": "hat",
+    "part": "gefordert",
+    "en": "to demand",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-164",
+    "inf": "fördern",
+    "aux": "hat",
+    "part": "gefördert",
+    "en": "to promote / support",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-165",
+    "inf": "fortsetzen",
+    "aux": "hat",
+    "part": "fortgesetzt",
+    "en": "to continue",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-166",
+    "inf": "freuen",
+    "aux": "hat",
+    "part": "gefreut",
+    "en": "to be glad",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-167",
+    "inf": "frühstücken",
+    "aux": "hat",
+    "part": "gefrühstückt",
+    "en": "to have breakfast",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-168",
+    "inf": "fürchten",
+    "aux": "hat",
+    "part": "gefürchtet",
+    "en": "to be afraid",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-169",
+    "inf": "füttern",
+    "aux": "hat",
+    "part": "gefüttert",
+    "en": "to feed",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-170",
+    "inf": "garantieren",
+    "aux": "hat",
+    "part": "garantiert",
+    "en": "to guarantee",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-171",
+    "inf": "gebrauchen",
+    "aux": "hat",
+    "part": "gebraucht",
+    "en": "to use",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-172",
+    "inf": "gefallen",
+    "aux": "hat",
+    "part": "gefallen",
+    "en": "to please / like",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-173",
+    "inf": "gehören",
+    "aux": "hat",
+    "part": "gehört",
+    "en": "to belong",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-174",
+    "inf": "genehmigen",
+    "aux": "hat",
+    "part": "genehmigt",
+    "en": "to approve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-175",
+    "inf": "genügen",
+    "aux": "hat",
+    "part": "genügt",
+    "en": "to be enough",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-176",
+    "inf": "gießen",
+    "aux": "hat",
+    "part": "gegossen",
+    "en": "to water / pour",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-177",
+    "inf": "grillieren",
+    "aux": "hat",
+    "part": "grilliert",
+    "en": "to grill / barbecue",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-178",
+    "inf": "gucken",
+    "aux": "hat",
+    "part": "geguckt",
+    "en": "to look",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-179",
+    "inf": "hageln",
+    "aux": "hat",
+    "part": "gehagelt",
+    "en": "to hail",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-180",
+    "inf": "hängen",
+    "aux": "hat",
+    "part": "gehangen",
+    "en": "to hang",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-181",
+    "inf": "herausfinden",
+    "aux": "hat",
+    "part": "herausgefunden",
+    "en": "to find out",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-182",
+    "inf": "herstellen",
+    "aux": "hat",
+    "part": "hergestellt",
+    "en": "to produce / manufacture",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-183",
+    "inf": "herunterfahren",
+    "aux": "ist",
+    "part": "heruntergefahren",
+    "en": "to shut down",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-184",
+    "inf": "herunterladen",
+    "aux": "hat",
+    "part": "heruntergeladen",
+    "en": "to download",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-185",
+    "inf": "hinterlassen",
+    "aux": "hat",
+    "part": "hinterlassen",
+    "en": "to leave behind",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-186",
+    "inf": "hinunterwerfen",
+    "aux": "hat",
+    "part": "hinuntergeworfen",
+    "en": "to throw down",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-187",
+    "inf": "hinweisen",
+    "aux": "hat",
+    "part": "hingewiesen",
+    "en": "to point out",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-188",
+    "inf": "hochladen",
+    "aux": "hat",
+    "part": "hochgeladen",
+    "en": "to upload",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-189",
+    "inf": "hupen",
+    "aux": "hat",
+    "part": "gehupt",
+    "en": "to honk",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-190",
+    "inf": "husten",
+    "aux": "hat",
+    "part": "gehustet",
+    "en": "to cough",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-191",
+    "inf": "irren",
+    "aux": "hat",
+    "part": "geirrt",
+    "en": "to be mistaken",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-192",
+    "inf": "kaputtgehen",
+    "aux": "ist",
+    "part": "kaputtgegangen",
+    "en": "to break",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-193",
+    "inf": "kaputtmachen",
+    "aux": "hat",
+    "part": "kaputtgemacht",
+    "en": "to break / ruin",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-194",
+    "inf": "kaufen",
+    "aux": "hat",
+    "part": "gekauft",
+    "en": "to buy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-195",
+    "inf": "kennenlernen",
+    "aux": "hat",
+    "part": "kennengelernt",
+    "en": "to get to know",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-196",
+    "inf": "klicken",
+    "aux": "hat",
+    "part": "geklickt",
+    "en": "to click",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-197",
+    "inf": "klingen",
+    "aux": "hat",
+    "part": "geklungen",
+    "en": "to sound",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-198",
+    "inf": "konzentrieren",
+    "aux": "hat",
+    "part": "konzentriert",
+    "en": "to concentrate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-199",
+    "inf": "kopieren",
+    "aux": "hat",
+    "part": "kopiert",
+    "en": "to copy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-200",
+    "inf": "kümmern",
+    "aux": "hat",
+    "part": "gekümmert",
+    "en": "to take care of",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-201",
+    "inf": "lächeln",
+    "aux": "hat",
+    "part": "gelächelt",
+    "en": "to smile",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-202",
+    "inf": "langweilen",
+    "aux": "hat",
+    "part": "gelangweilt",
+    "en": "to be bored",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-203",
+    "inf": "leisten",
+    "aux": "hat",
+    "part": "geleistet",
+    "en": "to afford / accomplish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-204",
+    "inf": "leiten",
+    "aux": "hat",
+    "part": "geleitet",
+    "en": "to lead / manage",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-205",
+    "inf": "lohnen",
+    "aux": "hat",
+    "part": "gelohnt",
+    "en": "to be worthwhile",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-206",
+    "inf": "losfahren",
+    "aux": "ist",
+    "part": "losgefahren",
+    "en": "to set off / depart",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-207",
+    "inf": "mischen",
+    "aux": "hat",
+    "part": "gemischt",
+    "en": "to mix",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-208",
+    "inf": "mitteilen",
+    "aux": "hat",
+    "part": "mitgeteilt",
+    "en": "to inform",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-209",
+    "inf": "nachdenken",
+    "aux": "hat",
+    "part": "nachgedacht",
+    "en": "to think over",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-210",
+    "inf": "nachschlagen",
+    "aux": "hat",
+    "part": "nachgeschlagen",
+    "en": "to look up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-211",
+    "inf": "nähern",
+    "aux": "hat",
+    "part": "genähert",
+    "en": "to approach",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-212",
+    "inf": "notieren",
+    "aux": "hat",
+    "part": "notiert",
+    "en": "to note down",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-213",
+    "inf": "nützen",
+    "aux": "hat",
+    "part": "genützt",
+    "en": "to be of use",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-214",
+    "inf": "parkieren",
+    "aux": "hat",
+    "part": "parkiert",
+    "en": "to park",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-215",
+    "inf": "präsentieren",
+    "aux": "hat",
+    "part": "präsentiert",
+    "en": "to present",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-216",
+    "inf": "rasieren",
+    "aux": "hat",
+    "part": "rasiert",
+    "en": "to shave",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-217",
+    "inf": "realisieren",
+    "aux": "hat",
+    "part": "realisiert",
+    "en": "to realize / implement",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-218",
+    "inf": "schaden",
+    "aux": "hat",
+    "part": "geschadet",
+    "en": "to harm",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-219",
+    "inf": "schalten",
+    "aux": "hat",
+    "part": "geschaltet",
+    "en": "to switch",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-220",
+    "inf": "schätzen",
+    "aux": "hat",
+    "part": "geschätzt",
+    "en": "to estimate / appreciate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-221",
+    "inf": "schieben",
+    "aux": "hat",
+    "part": "geschoben",
+    "en": "to push",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-222",
+    "inf": "schießen",
+    "aux": "hat",
+    "part": "geschossen",
+    "en": "to shoot",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-223",
+    "inf": "schimpfen",
+    "aux": "hat",
+    "part": "geschimpft",
+    "en": "to scold / complain",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-224",
+    "inf": "schminken",
+    "aux": "hat",
+    "part": "geschminkt",
+    "en": "to put on makeup",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-225",
+    "inf": "schneiden",
+    "aux": "hat",
+    "part": "geschnitten",
+    "en": "to cut",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-226",
+    "inf": "schneien",
+    "aux": "hat",
+    "part": "geschneit",
+    "en": "to snow",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-227",
+    "inf": "schütteln",
+    "aux": "hat",
+    "part": "geschüttelt",
+    "en": "to shake",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-228",
+    "inf": "schützen",
+    "aux": "hat",
+    "part": "geschützt",
+    "en": "to protect",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-229",
+    "inf": "schwitzen",
+    "aux": "hat",
+    "part": "geschwitzt",
+    "en": "to sweat",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-230",
+    "inf": "setzen",
+    "aux": "hat",
+    "part": "gesetzt",
+    "en": "to set / sit down",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-231",
+    "inf": "sichern",
+    "aux": "hat",
+    "part": "gesichert",
+    "en": "to secure / back up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-232",
+    "inf": "siegen",
+    "aux": "hat",
+    "part": "gesiegt",
+    "en": "to win",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-233",
+    "inf": "siezen",
+    "aux": "hat",
+    "part": "gesiezt",
+    "en": "to address formally",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-234",
+    "inf": "sorgen",
+    "aux": "hat",
+    "part": "gesorgt",
+    "en": "to care / provide",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-235",
+    "inf": "spazieren gehen",
+    "aux": "ist",
+    "part": "spazieren gegangen",
+    "en": "to go for a walk",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-236",
+    "inf": "speichern",
+    "aux": "hat",
+    "part": "gespeichert",
+    "en": "to save / store",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-237",
+    "inf": "spülen",
+    "aux": "hat",
+    "part": "gespült",
+    "en": "to rinse / wash up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-238",
+    "inf": "spüren",
+    "aux": "hat",
+    "part": "gespürt",
+    "en": "to feel / sense",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-239",
+    "inf": "stammen",
+    "aux": "hat",
+    "part": "gestammt",
+    "en": "to come from / originate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-240",
+    "inf": "starten",
+    "aux": "ist",
+    "part": "gestartet",
+    "en": "to start / take off",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-241",
+    "inf": "stattfinden",
+    "aux": "hat",
+    "part": "stattgefunden",
+    "en": "to take place",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-242",
+    "inf": "staubsaugen",
+    "aux": "hat",
+    "part": "gestaubsaugt",
+    "en": "to vacuum",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-243",
+    "inf": "stechen",
+    "aux": "hat",
+    "part": "gestochen",
+    "en": "to sting / prick",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-244",
+    "inf": "stecken",
+    "aux": "hat",
+    "part": "gesteckt",
+    "en": "to put / stick",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-245",
+    "inf": "stehen bleiben",
+    "aux": "ist",
+    "part": "stehen geblieben",
+    "en": "to stop / stay standing",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-246",
+    "inf": "stinken",
+    "aux": "hat",
+    "part": "gestunken",
+    "en": "to stink",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-247",
+    "inf": "stoßen",
+    "aux": "hat",
+    "part": "gestoßen",
+    "en": "to bump / push",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-248",
+    "inf": "streiten",
+    "aux": "hat",
+    "part": "gestritten",
+    "en": "to argue / quarrel",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-249",
+    "inf": "tauchen",
+    "aux": "ist",
+    "part": "getaucht",
+    "en": "to dive",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-250",
+    "inf": "teilnehmen",
+    "aux": "hat",
+    "part": "teilgenommen",
+    "en": "to participate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-251",
+    "inf": "testen",
+    "aux": "hat",
+    "part": "getestet",
+    "en": "to test",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-252",
+    "inf": "tippen",
+    "aux": "hat",
+    "part": "getippt",
+    "en": "to type",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-253",
+    "inf": "transportieren",
+    "aux": "hat",
+    "part": "transportiert",
+    "en": "to transport",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-254",
+    "inf": "träumen",
+    "aux": "hat",
+    "part": "geträumt",
+    "en": "to dream",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-255",
+    "inf": "treiben",
+    "aux": "hat",
+    "part": "getrieben",
+    "en": "to do / drive",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-256",
+    "inf": "trennen",
+    "aux": "hat",
+    "part": "getrennt",
+    "en": "to separate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-257",
+    "inf": "treten",
+    "aux": "ist",
+    "part": "getreten",
+    "en": "to step / kick",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-258",
+    "inf": "üben",
+    "aux": "hat",
+    "part": "geübt",
+    "en": "to practice",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-259",
+    "inf": "überfahren",
+    "aux": "hat",
+    "part": "überfahren",
+    "en": "to run over",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-260",
+    "inf": "überholen",
+    "aux": "hat",
+    "part": "überholt",
+    "en": "to overtake",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-261",
+    "inf": "überlegen",
+    "aux": "hat",
+    "part": "überlegt",
+    "en": "to consider",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-262",
+    "inf": "übernehmen",
+    "aux": "hat",
+    "part": "übernommen",
+    "en": "to take over",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-263",
+    "inf": "überprüfen",
+    "aux": "hat",
+    "part": "überprüft",
+    "en": "to check / verify",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-264",
+    "inf": "überraschen",
+    "aux": "hat",
+    "part": "überrascht",
+    "en": "to surprise",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-265",
+    "inf": "überreden",
+    "aux": "hat",
+    "part": "überredet",
+    "en": "to persuade",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-266",
+    "inf": "übersetzen",
+    "aux": "hat",
+    "part": "übersetzt",
+    "en": "to translate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-267",
+    "inf": "übertreiben",
+    "aux": "hat",
+    "part": "übertrieben",
+    "en": "to exaggerate",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-268",
+    "inf": "überweisen",
+    "aux": "hat",
+    "part": "überwiesen",
+    "en": "to transfer",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-269",
+    "inf": "überzeugen",
+    "aux": "hat",
+    "part": "überzeugt",
+    "en": "to convince",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-270",
+    "inf": "umarmen",
+    "aux": "hat",
+    "part": "umarmt",
+    "en": "to hug",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-271",
+    "inf": "umdrehen",
+    "aux": "hat",
+    "part": "umgedreht",
+    "en": "to turn around",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-272",
+    "inf": "umgehen",
+    "aux": "ist",
+    "part": "umgegangen",
+    "en": "to handle / deal with",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-273",
+    "inf": "umsteigen",
+    "aux": "ist",
+    "part": "umgestiegen",
+    "en": "to change / transfer",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-274",
+    "inf": "umtauschen",
+    "aux": "hat",
+    "part": "umgetauscht",
+    "en": "to exchange",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-275",
+    "inf": "umziehen",
+    "aux": "ist",
+    "part": "umgezogen",
+    "en": "to move house",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-276",
+    "inf": "unterbrechen",
+    "aux": "hat",
+    "part": "unterbrochen",
+    "en": "to interrupt",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-277",
+    "inf": "unterhalten",
+    "aux": "hat",
+    "part": "unterhalten",
+    "en": "to converse / entertain",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-278",
+    "inf": "unterlassen",
+    "aux": "hat",
+    "part": "unterlassen",
+    "en": "to refrain from",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-279",
+    "inf": "unternehmen",
+    "aux": "hat",
+    "part": "unternommen",
+    "en": "to undertake / do",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-280",
+    "inf": "unterscheiden",
+    "aux": "hat",
+    "part": "unterschieden",
+    "en": "to distinguish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-281",
+    "inf": "unterschreiben",
+    "aux": "hat",
+    "part": "unterschrieben",
+    "en": "to sign",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-282",
+    "inf": "unterstreichen",
+    "aux": "hat",
+    "part": "unterstrichen",
+    "en": "to underline",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-283",
+    "inf": "unterstützen",
+    "aux": "hat",
+    "part": "unterstützt",
+    "en": "to support",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-284",
+    "inf": "untersuchen",
+    "aux": "hat",
+    "part": "untersucht",
+    "en": "to examine",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-285",
+    "inf": "verabreden",
+    "aux": "hat",
+    "part": "verabredet",
+    "en": "to arrange to meet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-286",
+    "inf": "verabschieden",
+    "aux": "hat",
+    "part": "verabschiedet",
+    "en": "to say goodbye",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-287",
+    "inf": "verändern",
+    "aux": "hat",
+    "part": "verändert",
+    "en": "to change",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-288",
+    "inf": "verbessern",
+    "aux": "hat",
+    "part": "verbessert",
+    "en": "to improve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-289",
+    "inf": "verbieten",
+    "aux": "hat",
+    "part": "verboten",
+    "en": "to forbid",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-290",
+    "inf": "verbinden",
+    "aux": "hat",
+    "part": "verbunden",
+    "en": "to connect / bandage",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-291",
+    "inf": "verbrauchen",
+    "aux": "hat",
+    "part": "verbraucht",
+    "en": "to consume / use up",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-292",
+    "inf": "verbrennen",
+    "aux": "hat",
+    "part": "verbrannt",
+    "en": "to burn",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-293",
+    "inf": "verbringen",
+    "aux": "hat",
+    "part": "verbracht",
+    "en": "to spend (time)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-294",
+    "inf": "verdienen",
+    "aux": "hat",
+    "part": "verdient",
+    "en": "to earn / deserve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-295",
+    "inf": "vereinbaren",
+    "aux": "hat",
+    "part": "vereinbart",
+    "en": "to arrange",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-296",
+    "inf": "vergessen",
+    "aux": "hat",
+    "part": "vergessen",
+    "en": "to forget",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-297",
+    "inf": "vergleichen",
+    "aux": "hat",
+    "part": "verglichen",
+    "en": "to compare",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-298",
+    "inf": "vergnügen",
+    "aux": "hat",
+    "part": "vergnügt",
+    "en": "to enjoy oneself",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-299",
+    "inf": "vergrößern",
+    "aux": "hat",
+    "part": "vergrößert",
+    "en": "to enlarge",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-300",
+    "inf": "verhaften",
+    "aux": "hat",
+    "part": "verhaftet",
+    "en": "to arrest",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-301",
+    "inf": "verhalten",
+    "aux": "hat",
+    "part": "verhalten",
+    "en": "to behave",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-302",
+    "inf": "verkaufen",
+    "aux": "hat",
+    "part": "verkauft",
+    "en": "to sell",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-303",
+    "inf": "verlangen",
+    "aux": "hat",
+    "part": "verlangt",
+    "en": "to demand",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-304",
+    "inf": "verlängern",
+    "aux": "hat",
+    "part": "verlängert",
+    "en": "to extend",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-305",
+    "inf": "verlassen",
+    "aux": "hat",
+    "part": "verlassen",
+    "en": "to leave",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-306",
+    "inf": "verlaufen",
+    "aux": "hat",
+    "part": "verlaufen",
+    "en": "to get lost",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-307",
+    "inf": "verletzen",
+    "aux": "hat",
+    "part": "verletzt",
+    "en": "to injure",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-308",
+    "inf": "verlieben",
+    "aux": "hat",
+    "part": "verliebt",
+    "en": "to fall in love",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-309",
+    "inf": "verlieren",
+    "aux": "hat",
+    "part": "verloren",
+    "en": "to lose",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-310",
+    "inf": "vermeiden",
+    "aux": "hat",
+    "part": "vermieden",
+    "en": "to avoid",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-311",
+    "inf": "vermissen",
+    "aux": "hat",
+    "part": "vermisst",
+    "en": "to miss",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-312",
+    "inf": "veröffentlichen",
+    "aux": "hat",
+    "part": "veröffentlicht",
+    "en": "to publish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-313",
+    "inf": "verpacken",
+    "aux": "hat",
+    "part": "verpackt",
+    "en": "to pack",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-314",
+    "inf": "verpassen",
+    "aux": "hat",
+    "part": "verpasst",
+    "en": "to miss",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-315",
+    "inf": "verpflegen",
+    "aux": "hat",
+    "part": "verpflegt",
+    "en": "to cater",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-316",
+    "inf": "verraten",
+    "aux": "hat",
+    "part": "verraten",
+    "en": "to betray",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-317",
+    "inf": "verreisen",
+    "aux": "ist",
+    "part": "verreist",
+    "en": "to travel away",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-318",
+    "inf": "versäumen",
+    "aux": "hat",
+    "part": "versäumt",
+    "en": "to miss",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-319",
+    "inf": "verschieben",
+    "aux": "hat",
+    "part": "verschoben",
+    "en": "to postpone",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-320",
+    "inf": "verschmutzen",
+    "aux": "hat",
+    "part": "verschmutzt",
+    "en": "to pollute",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-321",
+    "inf": "verschreiben",
+    "aux": "hat",
+    "part": "verschrieben",
+    "en": "to prescribe",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-322",
+    "inf": "verschwinden",
+    "aux": "ist",
+    "part": "verschwunden",
+    "en": "to disappear",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-323",
+    "inf": "versprechen",
+    "aux": "hat",
+    "part": "versprochen",
+    "en": "to promise",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-324",
+    "inf": "verstecken",
+    "aux": "hat",
+    "part": "versteckt",
+    "en": "to hide",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-325",
+    "inf": "verstehen",
+    "aux": "hat",
+    "part": "verstanden",
+    "en": "to understand",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-326",
+    "inf": "versuchen",
+    "aux": "hat",
+    "part": "versucht",
+    "en": "to try",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-327",
+    "inf": "verteilen",
+    "aux": "hat",
+    "part": "verteilt",
+    "en": "to distribute",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-328",
+    "inf": "vertrauen",
+    "aux": "hat",
+    "part": "vertraut",
+    "en": "to trust",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-329",
+    "inf": "vertreten",
+    "aux": "hat",
+    "part": "vertreten",
+    "en": "to represent",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-330",
+    "inf": "verursachen",
+    "aux": "hat",
+    "part": "verursacht",
+    "en": "to cause",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-331",
+    "inf": "verurteilen",
+    "aux": "hat",
+    "part": "verurteilt",
+    "en": "to convict",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-332",
+    "inf": "verwenden",
+    "aux": "hat",
+    "part": "verwendet",
+    "en": "to use",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-333",
+    "inf": "verzeihen",
+    "aux": "hat",
+    "part": "verziehen",
+    "en": "to forgive",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-334",
+    "inf": "verzichten",
+    "aux": "hat",
+    "part": "verzichtet",
+    "en": "to do without",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-335",
+    "inf": "vorbereiten",
+    "aux": "hat",
+    "part": "vorbereitet",
+    "en": "to prepare",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-336",
+    "inf": "vorhaben",
+    "aux": "hat",
+    "part": "vorgehabt",
+    "en": "to plan",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-337",
+    "inf": "vorkommen",
+    "aux": "ist",
+    "part": "vorgekommen",
+    "en": "to occur",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-338",
+    "inf": "vorlesen",
+    "aux": "hat",
+    "part": "vorgelesen",
+    "en": "to read aloud",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-339",
+    "inf": "vorschlagen",
+    "aux": "hat",
+    "part": "vorgeschlagen",
+    "en": "to suggest",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-340",
+    "inf": "vorstellen",
+    "aux": "hat",
+    "part": "vorgestellt",
+    "en": "to introduce",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-341",
+    "inf": "waschen",
+    "aux": "hat",
+    "part": "gewaschen",
+    "en": "to wash",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-342",
+    "inf": "wehtun",
+    "aux": "hat",
+    "part": "wehgetan",
+    "en": "to hurt",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-343",
+    "inf": "weigern",
+    "aux": "hat",
+    "part": "geweigert",
+    "en": "to refuse",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-344",
+    "inf": "wenden",
+    "aux": "hat",
+    "part": "gewendet",
+    "en": "to turn",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-345",
+    "inf": "wetten",
+    "aux": "hat",
+    "part": "gewettet",
+    "en": "to bet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-346",
+    "inf": "widersprechen",
+    "aux": "hat",
+    "part": "widersprochen",
+    "en": "to contradict",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-347",
+    "inf": "wiederholen",
+    "aux": "hat",
+    "part": "wiederholt",
+    "en": "to repeat",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-348",
+    "inf": "wiegen",
+    "aux": "hat",
+    "part": "gewogen",
+    "en": "to weigh",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-349",
+    "inf": "winken",
+    "aux": "hat",
+    "part": "gewinkt",
+    "en": "to wave",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-350",
+    "inf": "wirken",
+    "aux": "hat",
+    "part": "gewirkt",
+    "en": "to take effect",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-351",
+    "inf": "zerstören",
+    "aux": "hat",
+    "part": "zerstört",
+    "en": "to destroy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-352",
+    "inf": "zubereiten",
+    "aux": "hat",
+    "part": "zubereitet",
+    "en": "to prepare",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-353",
+    "inf": "zugehen",
+    "aux": "ist",
+    "part": "zugegangen",
+    "en": "to approach",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-354",
+    "inf": "zuhören",
+    "aux": "hat",
+    "part": "zugehört",
+    "en": "to listen",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-355",
+    "inf": "zumachen",
+    "aux": "hat",
+    "part": "zugemacht",
+    "en": "to close",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-356",
+    "inf": "zunehmen",
+    "aux": "hat",
+    "part": "zugenommen",
+    "en": "to increase",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-357",
+    "inf": "zurechtkommen",
+    "aux": "ist",
+    "part": "zurechtgekommen",
+    "en": "to cope",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-358",
+    "inf": "zusagen",
+    "aux": "hat",
+    "part": "zugesagt",
+    "en": "to accept",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-359",
+    "inf": "zusammenfassen",
+    "aux": "hat",
+    "part": "zusammengefasst",
+    "en": "to summarize",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-360",
+    "inf": "zuschauen",
+    "aux": "hat",
+    "part": "zugeschaut",
+    "en": "to watch",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-361",
+    "inf": "zustimmen",
+    "aux": "hat",
+    "part": "zugestimmt",
+    "en": "to agree",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "verb-ext-362",
+    "inf": "zwingen",
+    "aux": "hat",
+    "part": "gezwungen",
+    "en": "to force",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  }
+]

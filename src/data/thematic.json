@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "them-001",
+    "group": "1.1 Abkürzungen",
+    "de": "das Abo",
+    "en": "subscription",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-002",
+    "group": "1.1 Abkürzungen",
+    "de": "der Akku",
+    "en": "battery / accumulator",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-003",
+    "group": "1.1 Abkürzungen",
+    "de": "der Azubi (D)",
+    "en": "trainee / apprentice",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-004",
+    "group": "1.1 Abkürzungen",
+    "de": "die DVD",
+    "en": "DVD (data carrier)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-005",
+    "group": "1.1 Abkürzungen",
+    "de": "das EG / OG / UG",
+    "en": "ground / upper / lower floor",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-006",
+    "group": "1.1 Abkürzungen",
+    "de": "der ICE",
+    "en": "InterCity Express (fast train)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-007",
+    "group": "1.1 Abkürzungen",
+    "de": "das Kfz",
+    "en": "motor vehicle",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-008",
+    "group": "1.1 Abkürzungen",
+    "de": "der Lkw",
+    "en": "lorry / truck",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-009",
+    "group": "1.1 Abkürzungen",
+    "de": "der PC",
+    "en": "personal computer",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-010",
+    "group": "1.1 Abkürzungen",
+    "de": "der Pkw",
+    "en": "car / passenger vehicle",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-011",
+    "group": "1.1 Abkürzungen",
+    "de": "die SMS",
+    "en": "text message",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-012",
+    "group": "1.1 Abkürzungen",
+    "de": "das WC",
+    "en": "toilet / water closet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-013",
+    "group": "1.1 Abkürzungen",
+    "de": "die WG",
+    "en": "flat share / shared flat",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-014",
+    "group": "1.1 Abkürzungen",
+    "de": "usw.",
+    "en": "etc. / and so on",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-015",
+    "group": "1.1 Abkürzungen",
+    "de": "z. B.",
+    "en": "e.g. / for example",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-016",
+    "group": "1.1 Abkürzungen",
+    "de": "d. h.",
+    "en": "i.e. / that is",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-017",
+    "group": "1.1 Abkürzungen",
+    "de": "ca.",
+    "en": "approximately / circa",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-018",
+    "group": "1.1 Abkürzungen",
+    "de": "bzw.",
+    "en": "or / respectively",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-019",
+    "group": "1.2 Anglizismen",
+    "de": "das Baby",
+    "en": "baby",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-020",
+    "group": "1.2 Anglizismen",
+    "de": "der Blog",
+    "en": "blog",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-021",
+    "group": "1.2 Anglizismen",
+    "de": "bloggen",
+    "en": "to blog",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-022",
+    "group": "1.2 Anglizismen",
+    "de": "chatten",
+    "en": "to chat (online)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-023",
+    "group": "1.2 Anglizismen",
+    "de": "checken",
+    "en": "to check",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-024",
+    "group": "1.2 Anglizismen",
+    "de": "der Computer",
+    "en": "computer",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-025",
+    "group": "1.2 Anglizismen",
+    "de": "das E-Bike",
+    "en": "e-bike / electric bicycle",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-026",
+    "group": "1.2 Anglizismen",
+    "de": "das E-Book",
+    "en": "e-book",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-027",
+    "group": "1.2 Anglizismen",
+    "de": "faxen",
+    "en": "to fax",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-028",
+    "group": "1.2 Anglizismen",
+    "de": "das Festival",
+    "en": "festival",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-029",
+    "group": "1.2 Anglizismen",
+    "de": "googeln",
+    "en": "to google",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-030",
+    "group": "1.2 Anglizismen",
+    "de": "das Internet",
+    "en": "internet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-031",
+    "group": "1.2 Anglizismen",
+    "de": "der Job",
+    "en": "job",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-032",
+    "group": "1.2 Anglizismen",
+    "de": "jobben",
+    "en": "to work (casually)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-033",
+    "group": "1.2 Anglizismen",
+    "de": "joggen",
+    "en": "to jog",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-034",
+    "group": "1.2 Anglizismen",
+    "de": "der Laptop",
+    "en": "laptop",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-035",
+    "group": "1.2 Anglizismen",
+    "de": "mailen",
+    "en": "to email",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-036",
+    "group": "1.2 Anglizismen",
+    "de": "das Smartphone",
+    "en": "smartphone",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-037",
+    "group": "1.2 Anglizismen",
+    "de": "surfen",
+    "en": "to surf / browse",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-038",
+    "group": "1.2 Anglizismen",
+    "de": "das Team",
+    "en": "team",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-039",
+    "group": "1.2 Anglizismen",
+    "de": "der Trend",
+    "en": "trend",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-040",
+    "group": "1.2 Anglizismen",
+    "de": "der User / die Userin",
+    "en": "user",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-041",
+    "group": "1.2 Anglizismen",
+    "de": "online",
+    "en": "online",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-042",
+    "group": "1.2 Anglizismen",
+    "de": "live",
+    "en": "live",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-043",
+    "group": "1.2 Anglizismen",
+    "de": "global",
+    "en": "global",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-044",
+    "group": "1.2 Anglizismen",
+    "de": "cool",
+    "en": "cool",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-045",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Krippe",
+    "en": "crèche / nursery",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-046",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "der Kindergarten",
+    "en": "kindergarten",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-047",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Grundschule",
+    "en": "primary school",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-048",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Realschule",
+    "en": "secondary school (middle track)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-049",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "das Gymnasium",
+    "en": "grammar school / high school",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-050",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Berufsschule",
+    "en": "vocational school",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-051",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Hochschule",
+    "en": "university / college",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-052",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Universität (Uni)",
+    "en": "university",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-053",
+    "group": "1.4 Bildungseinrichtungen",
+    "de": "die Volkshochschule",
+    "en": "adult education centre",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-054",
+    "group": "1.5 Schulfächer",
+    "de": "Biologie",
+    "en": "Biology",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-055",
+    "group": "1.5 Schulfächer",
+    "de": "Chemie",
+    "en": "Chemistry",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-056",
+    "group": "1.5 Schulfächer",
+    "de": "Geografie",
+    "en": "Geography",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-057",
+    "group": "1.5 Schulfächer",
+    "de": "Geschichte",
+    "en": "History",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-058",
+    "group": "1.5 Schulfächer",
+    "de": "Mathematik (Mathe)",
+    "en": "Mathematics (Maths)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-059",
+    "group": "1.5 Schulfächer",
+    "de": "Musik",
+    "en": "Music",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-060",
+    "group": "1.5 Schulfächer",
+    "de": "Philosophie",
+    "en": "Philosophy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-061",
+    "group": "1.5 Schulfächer",
+    "de": "Physik",
+    "en": "Physics",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-062",
+    "group": "1.5 Schulfächer",
+    "de": "Sport",
+    "en": "PE / Sport",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-063",
+    "group": "1.7 Farben",
+    "de": "blau",
+    "en": "blue",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-064",
+    "group": "1.7 Farben",
+    "de": "braun",
+    "en": "brown",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-065",
+    "group": "1.7 Farben",
+    "de": "gelb",
+    "en": "yellow",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-066",
+    "group": "1.7 Farben",
+    "de": "grau",
+    "en": "grey",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-067",
+    "group": "1.7 Farben",
+    "de": "grün",
+    "en": "green",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-068",
+    "group": "1.7 Farben",
+    "de": "lila",
+    "en": "purple / lilac",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-069",
+    "group": "1.7 Farben",
+    "de": "orange",
+    "en": "orange",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-070",
+    "group": "1.7 Farben",
+    "de": "rosa",
+    "en": "pink / rose",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-071",
+    "group": "1.7 Farben",
+    "de": "rot",
+    "en": "red",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-072",
+    "group": "1.7 Farben",
+    "de": "schwarz",
+    "en": "black",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-073",
+    "group": "1.7 Farben",
+    "de": "violett",
+    "en": "violet",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-074",
+    "group": "1.7 Farben",
+    "de": "weiß",
+    "en": "white",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-075",
+    "group": "1.7 Farben",
+    "de": "hell-",
+    "en": "light- (e.g. hellblau)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-076",
+    "group": "1.7 Farben",
+    "de": "dunkel-",
+    "en": "dark- (e.g. dunkelblau)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-077",
+    "group": "1.8 Himmelsrichtungen",
+    "de": "der Norden / nördlich",
+    "en": "north / northern",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-078",
+    "group": "1.8 Himmelsrichtungen",
+    "de": "der Osten / östlich",
+    "en": "east / eastern",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-079",
+    "group": "1.8 Himmelsrichtungen",
+    "de": "der Süden / südlich",
+    "en": "south / southern",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-080",
+    "group": "1.8 Himmelsrichtungen",
+    "de": "der Westen / westlich",
+    "en": "west / western",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-081",
+    "group": "1.10 Politische Begriffe",
+    "de": "der Bundeskanzler/-in",
+    "en": "Federal Chancellor",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-082",
+    "group": "1.10 Politische Begriffe",
+    "de": "der Bundespräsident/-in",
+    "en": "Federal President",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-083",
+    "group": "1.10 Politische Begriffe",
+    "de": "der Bürgermeister/-in",
+    "en": "mayor",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-084",
+    "group": "1.10 Politische Begriffe",
+    "de": "die Demokratie",
+    "en": "democracy",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-085",
+    "group": "1.10 Politische Begriffe",
+    "de": "demokratisch",
+    "en": "democratic",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-086",
+    "group": "1.10 Politische Begriffe",
+    "de": "die Europäische Union (EU)",
+    "en": "European Union",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-087",
+    "group": "1.10 Politische Begriffe",
+    "de": "konservativ",
+    "en": "conservative",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-088",
+    "group": "1.10 Politische Begriffe",
+    "de": "liberal",
+    "en": "liberal",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-089",
+    "group": "1.10 Politische Begriffe",
+    "de": "der Minister/-in",
+    "en": "minister",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-090",
+    "group": "1.10 Politische Begriffe",
+    "de": "das Parlament",
+    "en": "parliament",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-091",
+    "group": "1.10 Politische Begriffe",
+    "de": "die Partei",
+    "en": "political party",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-092",
+    "group": "1.10 Politische Begriffe",
+    "de": "die Regierung",
+    "en": "government",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-093",
+    "group": "1.10 Politische Begriffe",
+    "de": "der Staat",
+    "en": "state / country",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-094",
+    "group": "1.10 Politische Begriffe",
+    "de": "staatlich",
+    "en": "state-owned / governmental",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-095",
+    "group": "1.10 Politische Begriffe",
+    "de": "die Gemeinde",
+    "en": "municipality / community",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-096",
+    "group": "1.11 Tiere",
+    "de": "der Affe",
+    "en": "monkey / ape",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-097",
+    "group": "1.11 Tiere",
+    "de": "der Bär",
+    "en": "bear",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-098",
+    "group": "1.11 Tiere",
+    "de": "die Biene",
+    "en": "bee",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-099",
+    "group": "1.11 Tiere",
+    "de": "der Elefant",
+    "en": "elephant",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-100",
+    "group": "1.11 Tiere",
+    "de": "die Ente",
+    "en": "duck",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-101",
+    "group": "1.11 Tiere",
+    "de": "der Fisch",
+    "en": "fish",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-102",
+    "group": "1.11 Tiere",
+    "de": "die Fliege",
+    "en": "fly",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-103",
+    "group": "1.11 Tiere",
+    "de": "die Giraffe",
+    "en": "giraffe",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-104",
+    "group": "1.11 Tiere",
+    "de": "der Hase",
+    "en": "hare / rabbit",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-105",
+    "group": "1.11 Tiere",
+    "de": "der Hund",
+    "en": "dog",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-106",
+    "group": "1.11 Tiere",
+    "de": "das Insekt",
+    "en": "insect",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-107",
+    "group": "1.11 Tiere",
+    "de": "die Katze",
+    "en": "cat",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-108",
+    "group": "1.11 Tiere",
+    "de": "das Krokodil",
+    "en": "crocodile",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-109",
+    "group": "1.11 Tiere",
+    "de": "die Kuh",
+    "en": "cow",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-110",
+    "group": "1.11 Tiere",
+    "de": "der Löwe",
+    "en": "lion",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-111",
+    "group": "1.11 Tiere",
+    "de": "die Maus",
+    "en": "mouse",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-112",
+    "group": "1.11 Tiere",
+    "de": "die Mücke",
+    "en": "mosquito / gnat",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-113",
+    "group": "1.11 Tiere",
+    "de": "das Pferd",
+    "en": "horse",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-114",
+    "group": "1.11 Tiere",
+    "de": "der Pinguin",
+    "en": "penguin",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-115",
+    "group": "1.11 Tiere",
+    "de": "das Schaf",
+    "en": "sheep",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-116",
+    "group": "1.11 Tiere",
+    "de": "die Schildkröte",
+    "en": "tortoise / turtle",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-117",
+    "group": "1.11 Tiere",
+    "de": "die Schlange",
+    "en": "snake",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-118",
+    "group": "1.11 Tiere",
+    "de": "das Schwein",
+    "en": "pig",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-119",
+    "group": "1.11 Tiere",
+    "de": "der Vogel",
+    "en": "bird",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-120",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Euro (€)",
+    "en": "euro",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-121",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Cent (c)",
+    "en": "cent",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-122",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Franken (sFr.)",
+    "en": "Swiss franc",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-123",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Meter (m)",
+    "en": "metre",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-124",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Zentimeter (cm)",
+    "en": "centimetre",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-125",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Kilometer (km)",
+    "en": "kilometre",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-126",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Quadratmeter (m²)",
+    "en": "square metre",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-127",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "das Gramm (g)",
+    "en": "gram",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-128",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "das Kilo(gramm) (kg)",
+    "en": "kilogram",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-129",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "das Pfund (500g)",
+    "en": "pound (500g)",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-130",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Liter (l)",
+    "en": "litre",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-131",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "das Prozent (%)",
+    "en": "percent",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-132",
+    "group": "1.12 Währungen / Maße / Gewichte",
+    "de": "der Grad (°C)",
+    "en": "degree Celsius",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-133",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "eins, zwei, drei ... zehn",
+    "en": "one, two, three ... ten",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-134",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "elf, zwölf",
+    "en": "eleven, twelve",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-135",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "dreizehn ... zwanzig",
+    "en": "thirteen ... twenty",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-136",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "dreißig, vierzig ... neunzig",
+    "en": "thirty, forty ... ninety",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-137",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "hundert, tausend",
+    "en": "hundred, thousand",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-138",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "eine Million",
+    "en": "one million",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-139",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "eine Milliarde",
+    "en": "one billion",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-140",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "der/die/das erste",
+    "en": "the first",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-141",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "einmal / zweimal / dreimal",
+    "en": "once / twice / three times",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-142",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "einfach / doppelt",
+    "en": "single / double",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-143",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "½ = ein halb",
+    "en": "a half",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-144",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "⅓ = ein Drittel",
+    "en": "a third",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-145",
+    "group": "1.13 Zahlen / Bruchzahlen",
+    "de": "¼ = ein Viertel",
+    "en": "a quarter",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-146",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "der Morgen",
+    "en": "morning",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-147",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "der Vormittag",
+    "en": "late morning / before noon",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-148",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "der Mittag",
+    "en": "midday / noon",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-149",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "der Nachmittag",
+    "en": "afternoon",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-150",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "der Abend",
+    "en": "evening",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-151",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "die Nacht",
+    "en": "night",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-152",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "die Mitternacht",
+    "en": "midnight",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-153",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "morgens",
+    "en": "in the morning",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-154",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "mittags",
+    "en": "at midday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-155",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "abends",
+    "en": "in the evening",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-156",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "nachts",
+    "en": "at night",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-157",
+    "group": "1.14 Zeit — Tageszeiten",
+    "de": "tagsüber",
+    "en": "during the day",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-158",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Montag",
+    "en": "Monday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-159",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Dienstag",
+    "en": "Tuesday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-160",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Mittwoch",
+    "en": "Wednesday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-161",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Donnerstag",
+    "en": "Thursday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-162",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Freitag",
+    "en": "Friday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-163",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Samstag",
+    "en": "Saturday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-164",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Sonntag",
+    "en": "Sunday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-165",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "das Wochenende",
+    "en": "weekend",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-166",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "der Wochentag",
+    "en": "weekday",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-167",
+    "group": "1.14 Zeit — Wochentage",
+    "de": "wochentags / werktags",
+    "en": "on weekdays",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-168",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Januar",
+    "en": "January",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-169",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Februar",
+    "en": "February",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-170",
+    "group": "1.14 Zeit — Monate",
+    "de": "der März",
+    "en": "March",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-171",
+    "group": "1.14 Zeit — Monate",
+    "de": "der April",
+    "en": "April",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-172",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Mai",
+    "en": "May",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-173",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Juni",
+    "en": "June",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-174",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Juli",
+    "en": "July",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-175",
+    "group": "1.14 Zeit — Monate",
+    "de": "der August",
+    "en": "August",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-176",
+    "group": "1.14 Zeit — Monate",
+    "de": "der September",
+    "en": "September",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-177",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Oktober",
+    "en": "October",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-178",
+    "group": "1.14 Zeit — Monate",
+    "de": "der November",
+    "en": "November",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-179",
+    "group": "1.14 Zeit — Monate",
+    "de": "der Dezember",
+    "en": "December",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-180",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "der Frühling / das Frühjahr",
+    "en": "spring",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-181",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "der Sommer",
+    "en": "summer",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-182",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "der Herbst",
+    "en": "autumn",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-183",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "der Winter",
+    "en": "winter",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-184",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "die Sekunde",
+    "en": "second",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-185",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "die Minute",
+    "en": "minute",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-186",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "die Stunde",
+    "en": "hour",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-187",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "die Woche",
+    "en": "week",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-188",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "der Monat",
+    "en": "month",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-189",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "das Jahr",
+    "en": "year",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-190",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "das Jahrzehnt",
+    "en": "decade",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-191",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "das Jahrhundert",
+    "en": "century",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  },
+  {
+    "id": "them-192",
+    "group": "1.14 Zeit — Jahreszeiten / Zeitangaben",
+    "de": "stündlich / täglich / wöchentlich / monatlich / jährlich",
+    "en": "hourly / daily / weekly / monthly / yearly",
+    "level": "B1",
+    "source": "goethe_b1_wortliste",
+    "tags": []
+  }
+]
