@@ -140,8 +140,8 @@ export default function App() {
       </div>
 
       {section === "words" && (
-        <>
-          <div style={tab === "thematic" || tab === "verbs" ? { ...s.body, maxWidth: 1400 } : s.body}>
+        (tab === "thematic" || tab === "verbs") ? (
+          <div style={{ flex: 1, overflow: "hidden", display: "flex", flexDirection: "column", padding: "16px 20px 63px", maxWidth: 1400, width: "100%", margin: "0 auto", boxSizing: "border-box" }}>
             {tab === "thematic" && (
               <ThematicView
                 words={store.thematic}
@@ -162,6 +162,9 @@ export default function App() {
                 recordReview={recordReview}
               />
             )}
+          </div>
+        ) : (
+          <div style={{ flex: 1, overflowY: "auto", ...s.body, paddingBottom: 80 }}>
             {tab === "add" && <AddWordView groups={groups} onWordsChanged={reloadStore} />}
             {tab === "stats" && (
               <StatsView
@@ -173,29 +176,29 @@ export default function App() {
               />
             )}
           </div>
-        </>
+        )
       )}
 
       {section === "grammar" && (
-        <div style={{ ...s.body, maxWidth: 1400 }}>
+        <div style={{ flex: 1, overflowY: "auto", ...s.body, maxWidth: 1400, paddingBottom: 80 }}>
           <GrammarView ui={uiState} patch={patch} />
         </div>
       )}
 
       {section === "writing" && (
-        <div style={{ ...s.body, maxWidth: 1200 }}>
+        <div style={{ flex: 1, overflowY: "auto", ...s.body, maxWidth: 1200, paddingBottom: 80 }}>
           <WritingView ui={uiState} patch={patch} />
         </div>
       )}
 
       {section === "about" && (
-        <div style={s.body}>
+        <div style={{ flex: 1, overflowY: "auto", ...s.body, paddingBottom: 80 }}>
           <AboutView />
         </div>
       )}
 
       {section === "privacy" && (
-        <div style={s.body}>
+        <div style={{ flex: 1, overflowY: "auto", ...s.body, paddingBottom: 80 }}>
           <PrivacyView />
         </div>
       )}

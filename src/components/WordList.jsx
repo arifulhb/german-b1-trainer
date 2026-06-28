@@ -17,7 +17,7 @@ export default function WordList({ title, items, activeIndex, statusOf, mark, va
     : items.map((item, i) => ({ item, i }));
 
   return (
-    <div style={{ ...s.card, marginTop: 24, maxHeight: 420, overflowY: "auto" }}>
+    <div style={{ ...s.card, marginTop: 24, flex: 1, minHeight: 0, overflowY: "auto" }}>
       <div style={{ fontSize: 15, fontWeight: 700, color: "#1d72c2", marginBottom: 8 }}>{title}</div>
       <input
         type="search"

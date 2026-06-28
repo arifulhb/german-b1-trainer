@@ -20,14 +20,14 @@ export const s = {
   app: {
     fontFamily: "'Inter', system-ui, sans-serif",
     background: "#ffffff",
-    minHeight: "100vh",
+    height: "100vh",
+    display: "flex",
+    flexDirection: "column",
+    overflow: "hidden",
     color: "#1f2937",
-    padding: "0 0 60px 0",
   },
-  // Sticky wrapper keeping header + section menu + tabs pinned on scroll.
   stickyTop: {
-    position: "sticky",
-    top: 0,
+    flexShrink: 0,
     zIndex: 20,
     background: "#ffffff",
   },
@@ -148,11 +148,15 @@ export const s = {
   thematicLayout: {
     display: "flex",
     gap: 20,
-    alignItems: "flex-start",
+    alignItems: "stretch",
+    flex: 1,
+    minHeight: 0,
+    overflow: "hidden",
   },
   groupSidebar: {
-    flex: "0 0 340px",
-    maxHeight: "70vh",
+    flex: "0 0 300px",
+    height: "100%",
+    boxSizing: "border-box",
     overflowY: "auto",
     background: "#f5f6f8",
     border: "1px solid #e2e4e9",
@@ -224,6 +228,10 @@ export const s = {
   thematicMain: {
     flex: 1,
     minWidth: 0,
+    minHeight: 0,
+    display: "flex",
+    flexDirection: "column",
+    overflow: "hidden",
   },
   btn: (variant = "default") => ({
     padding: "9px 18px",
